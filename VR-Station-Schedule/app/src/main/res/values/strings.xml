@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VR</string>
+    <string name="station">Hae asemaa:</string>
+    <string name="search">Hae</string>
+    <string name="stat">Asema</string>
+    <string name="extra">Lisäasetukset</string>
+</resources>
